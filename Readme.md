@@ -1,0 +1,1 @@
+POC with recursive streams 

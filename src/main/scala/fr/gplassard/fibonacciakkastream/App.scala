@@ -1,4 +1,4 @@
-package fr.gplassard.fibonaccistream
+package fr.gplassard.fibonacciakkastream
 
 import akka.NotUsed
 import akka.actor.ActorSystem

@@ -1,6 +1,6 @@
-name := "fibonnaciStream"
+name := "fibonacci-akka-stream"
 
-version := "0.1"
+version := "0.1.0"
 
 scalaVersion := "2.11.8"
 
